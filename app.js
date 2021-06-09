@@ -56,8 +56,8 @@ let deleteLabel = (mailServer, labelName) => {
 }
 
 let mailServer1 = new Imap({
-    user: 'yashwanthaithagoni@gmail.com',
-    password: 'Yashu@6996$',
+    user: 'yourmailid@gmail.com',
+    password: 'password',
     host: 'imap.gmail.com',
     port: 993,
     tls: true,
